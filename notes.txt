@@ -1,1 +1,1 @@
-Git is a distributed version ….. work.
+git is coding platfrom 
